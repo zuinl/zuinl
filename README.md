@@ -1,13 +1,10 @@
 ### Hi there 👋
 
-Welcome to my GitHub. Here you can find stuff that I am working on and also that I had learnt over time. But please keep in mind that I work in many private projetcs that aren't even in this account and I don't always have time to build something personal to show my skills over here (but I try!). So, if you want to know a little better what I can do, don't be afraid to ask me :)
+Welcome to my GitHub. Here you can find stuff that I am working on and also that I had learnt over time. But please keep in mind that I work in many private projetcs that aren't even in this account and I don't always have time to build something personal to show my skills over here (but I try!). So, if you want to know a little more of my work, don't be afraid to ask me :)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on several web projetcs using ReactJS, NextJS, CSS3, HTML5 and some AWS Cloud services such as API Gateway, DynamoDB, Lambda and others.
-- 🌱 I’m currently learning automated tests, Docker, Serveless and going deeper on my React knowledge
-- 👯 I’m looking to collaborate on projects that have good impact and offer space and opportunity to grow as a professional
-- 🤔 I’m looking for help with understanding a little better "where am I" in the knowledge standards
-- 📫 How to reach me: You can email me on leonardosoareszuin@gmail.com or send me a message on LinkedIn (https://www.linkedin.com/in/lzuin/)
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: I have a dog named Java 🐶
+- 🔭 I’m currently working on a *web project* in a financial institution in South Brazil, *using ReactJS, TypeScript, NestJS, Azure DevOps, Jest, micro frontend w/ [single-spa](https://single-spa.js.org/)* among others;
+- 👨‍💻 On my free hours, I'm building a *React Native app* that consumes Spotify API to play music and adds a feature where the user can track their emotions while listening to specific songs;
+- 🌱 I’m currently learning more about React Native, Azure DevOps, CI/CD and kubernetes;
+- 👯 I’m looking to collaborate on projects that have good impact and offer space and opportunity to grow as a professional;
+- 📫 How to reach me: you can email me on leonardosoareszuin@gmail.com or send me a message on [LinkedIn](https://www.linkedin.com/in/lzuin/);
+- ⚡ Fun fact: I once had a dog named Java 🐶.
